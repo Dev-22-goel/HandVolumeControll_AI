@@ -1,7 +1,7 @@
 # Hand live Cam Python
-Created a Hand Detection Tool using OpenCV. It also recognizes finger patterns
+Created a Hand Detection Tool which can change the system's volume using OpenCV and Mediapipe. It also recognizes finger patterns.
 
-**Hand Detection** is a python software which is designed to detect hand movements and patterns.
+**Hand Detection** is a python software which is designed to detect hand movements and patterns. This can help to increase or decrease volume and brightness.
 
 Submitted by: **Devansh Goel**
 
@@ -13,7 +13,8 @@ The following **required** functionality is completed:
 
 * [x] Program can **Analyze user hand movements**
 * [x] Program can **Detect different hand patterns**
-* [x] Program can **display number of fingers on the side of the screen**
+* [x] Program can **display volume status of the system**
+* [x] Program can **change the volume of the system by fingers** 
 * [x] User can **see the current FPS on the right top of the screen**
 * [x] User can **safely exit the program** 
 
@@ -27,7 +28,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It was great to use different libraries like opencv, tensorflow, mediapipe and cvzone
+It was great to use different libraries like opencv, tensorflow, mediapipe, pycaw and my very own **personal hand detection file.**
 
 ## License
 
